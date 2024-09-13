@@ -1,3 +1,2 @@
-# Odin-template
+# odin-Knights_Travails
 
-LIVE PREVIEW - http://wnkinc.github.io/Odin-template
